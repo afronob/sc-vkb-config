@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.8">
   <diagram name="Page-1" id="jdoc23odPWOw73cPQI5v">
-    <mxGraphModel dx="3549" dy="1685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1364" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,16 +337,16 @@
           <mxGeometry x="580.2" y="1010.9399999999998" width="66.3" height="66.3" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-203" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="1441.3899999999999" y="309.5" width="64.4" height="20" as="geometry" />
+          <mxGeometry x="1375.6799999999998" y="319.5" width="64.4" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-204" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="1412.84" y="282.5" width="64.79" height="20" as="geometry" />
+          <mxGeometry x="1347.1299999999999" y="292.5" width="64.79" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-205" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1412.81" y="337.5" width="64.4" height="20" as="geometry" />
+          <mxGeometry x="1347.1" y="347.5" width="64.4" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-206" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1384.78" y="309.5" width="64.4" height="20" as="geometry" />
+          <mxGeometry x="1319.07" y="319.5" width="64.4" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-225" value="F2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1391.6899999999998" y="695.29" width="58.59" height="40" as="geometry" />
@@ -369,32 +369,32 @@
             <mxPoint x="1478.7499999999998" y="715.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-230" value="VTOL Cycle" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1384.78" y="735.29" width="72.4" height="40" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-230" value="Exit Seat / Turret&lt;br&gt;Quick Seat" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1370.18" y="736" width="93.59" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-231" value="Request Cargo" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1446.9199999999998" y="655.29" width="100" height="40" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-231" value="Lights" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1445.9199999999998" y="658.29" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-232" value="Cycle Config&lt;div&gt;Turret Change Position&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1509.0800000000002" y="737.29" width="130" height="40" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-232" value="Port Lock Toggle&lt;div&gt;[DT] Lock Doors Toggle&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1509.0800000000002" y="736.29" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-234" value="R-A2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1447.42" y="460" width="60" height="60" as="geometry" />
+          <mxGeometry x="1377.88" y="489.99999999999994" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-235" value="R-D1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1340.26" y="565.29" width="60" height="60" as="geometry" />
+          <mxGeometry x="1507.8" y="542.79" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-236" value="Operator Mode Cycle&lt;br&gt;[H] Master Mode Cycle" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1407.42" y="520" width="140" height="40" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-236" value="Toggle Bomb Impact" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1337.88" y="550" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-238" value="Decouple" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1302.6499999999999" y="625.29" width="140" height="30" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-238" value="VOIP&lt;div&gt;[DT] Hall Target&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1470.1899999999998" y="602.79" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-239" value="R&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-A1&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="874.02" y="397.5" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-240" value="Precision Aiming&lt;div&gt;[H] Precision Max Zoom&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="834.02" y="457.5" width="140" height="41" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-240" value="Unbound" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="834.02" y="457.5" width="140" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-241" value="Head Trackin,g On/Off&lt;div&gt;[DT] Reset Head Tracking&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1215.4899999999998" y="105" width="144" height="40" as="geometry" />
@@ -420,29 +420,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-247" value="&lt;div&gt;[DT] Weapon Power On/Off&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1241.54" y="304.5" width="153.15" height="30" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-247" value="Sub Target Back&lt;br&gt;Missile Type Previous&lt;div&gt;Fire Left Tool&lt;/div&gt;&lt;div&gt;[DT] Left Modifier Cycle&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1172.83" y="294.5" width="153.15" height="65.5" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-248" value="&lt;div&gt;[DT] Shields Power On/Off&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1487.6999999999998" y="305" width="153" height="30" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-248" value="Sub Target Forward&lt;br&gt;Missile Type Next&lt;div&gt;Fire Right Tool&lt;/div&gt;&lt;div&gt;[DT] Right Modifier Cycle&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1425.14" y="299.75" width="153" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-249" value="Flight Ready&lt;div&gt;[DT] Toggle Power On/Off&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1374.29" y="235" width="140" height="40" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-249" value="Increase Mining Laser Power&lt;div&gt;Fire Fracture&lt;/div&gt;&lt;div&gt;Missile Count Up&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1294.29" y="244" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-250" value="&lt;div&gt;[DT] Thurster Power On/Off&lt;/div&gt;&lt;div&gt;Landing Gear&lt;/div&gt;&lt;div&gt;[H] Autoland&lt;/div&gt;&lt;div&gt;Toggle Docking&lt;/div&gt;&lt;div&gt;Invoke Docking&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1369.29" y="360" width="150" height="80" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-250" value="Sub Target Reset&lt;br&gt;Missi&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;le Type Previous&lt;/span&gt;&lt;div&gt;&lt;div&gt;Fire Disintegrate&lt;/div&gt;&lt;div&gt;[DT] Cycle Structural&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Decrease Mining Laser Power&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1293.71" y="370" width="170.71" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-251" value="Request Landing" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;strokeWidth=1;perimeterSpacing=0;shadow=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="1230.27" y="240" width="109.15" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-252" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="GKqCPbM9X-c4OMSqoWZn-278" target="GKqCPbM9X-c4OMSqoWZn-251">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1431.8100000000004" y="306.33799999999997" as="sourcePoint" />
-            <mxPoint x="1340.27" y="251" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1370.13" y="290" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-251" value="Reset Missile Count&lt;div&gt;Cycle Fracture / Extraction&lt;/div&gt;&lt;div&gt;Beam Axis Toggle&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;strokeWidth=1;perimeterSpacing=0;shadow=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="1485.3600000000001" y="397.5" width="159.73" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-253" value="Cruise Control Toggle&lt;div&gt;[DT] Set Limiter to SCM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="841.36" y="175.5" width="144" height="40" as="geometry" />
@@ -457,28 +448,28 @@
           <mxGeometry x="970.3599999999998" y="247.5" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-257" value="Mode Switch To Analog&lt;div&gt;Axis Unbound&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="1082.06" y="287.5" width="142.5" height="40" as="geometry" />
+          <mxGeometry x="848.3699999999999" y="294.5" width="142.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-258" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="GKqCPbM9X-c4OMSqoWZn-281" target="GKqCPbM9X-c4OMSqoWZn-257">
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-258" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="GKqCPbM9X-c4OMSqoWZn-281" target="GKqCPbM9X-c4OMSqoWZn-257">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1063.7359999999999" y="216.36000000000013" as="sourcePoint" />
             <mxPoint x="1038.96" y="17.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-263" value="Toggle Lead/Lap Pip&lt;div&gt;&lt;i&gt;Turret Vjoy&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Remote Turret&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="860.0000000000001" y="1029.63" width="144" height="40" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-263" value="Shields Left&lt;div&gt;Focus Left Tool&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="875.6500000000001" y="1036.63" width="144" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-264" value="E.S.P Toggle&lt;div&gt;&lt;i&gt;Turret E.S.P&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Remote Turret 3&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1107" y="1025.66" width="135" height="50.97" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-264" value="Shields Right&lt;div&gt;Focus Right Tool&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1104.99" y="1032.76" width="135" height="50.97" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-265" value="Stragger Mode&lt;div&gt;&lt;i&gt;Remote Turret 1&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-265" value="Focus Fracture&lt;div&gt;Shields Fore&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="990.87" y="970.6300000000001" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-266" value="&lt;i&gt;Turret Gyro Mode&lt;/i&gt;&lt;div&gt;Start/Pause Stop Watch&lt;/div&gt;&lt;div&gt;[H] Reset Stop Watch&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="990.87" y="1110.3500000000004" width="140" height="49.03" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-266" value="Focus Disintegration&lt;div&gt;Shields Att&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="990.87" y="1109.8300000000004" width="140" height="49.03" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-267" value="&lt;i&gt;Recenter Turret&lt;/i&gt;&lt;div&gt;Gimbal Cycle&lt;/div&gt;&lt;div&gt;Salvage Gimbal Toggle&lt;/div&gt;&lt;div&gt;[DT] Salvage Gimbal Reset&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="841.3599999999999" y="872" width="181.29" height="70" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-267" value="&lt;i&gt;Shields Reset&lt;/i&gt;&lt;div&gt;&lt;i&gt;Focus All Salvage Heads&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="841.36" y="900" width="181.29" height="42" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-268" value="" style="endArrow=none;html=1;rounded=0;exitX=0.252;exitY=0.202;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.473;entryY=1.09;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -489,17 +480,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-270" value="&lt;div&gt;After Burner&lt;/div&gt;&lt;div&gt;Toggle SCM Limiter&lt;/div&gt;&lt;div&gt;&lt;i&gt;Turret Mouse Mode&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Turret Zoom&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="872.6499999999999" y="700" width="150" height="80" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-270" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Stage 1&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Fire Selected Weapon Group&lt;br&gt;Fire Weapon Group 2&lt;/div&gt;&lt;div&gt;[H] Engage Quantum&lt;/div&gt;&lt;div&gt;Fire Salvage Beam&lt;/div&gt;&lt;div&gt;Fire Mining Laser&lt;/div&gt;&lt;div&gt;Active Scan&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Stage 2&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Fire Selected&lt;br&gt;Fire Weapon Group 3&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="841.36" y="632.79" width="173.38" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-271" value="&lt;div&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;u&gt;Trigger Up&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Scan Ping&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;u&gt;Trigger Down&lt;/u&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Space Break&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="853.9999999999999" y="560" width="150" height="70" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-271" value="&lt;div&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;u&gt;&lt;b&gt;Trigger Up&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Decoy, [H] Multi Decoy&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;u&gt;&lt;b&gt;Trigger Down&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Noise&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="829.0199999999999" y="535.29" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-275" value="Star Citizen 4.1.1&lt;br&gt;Gladiator NXT EVO Omni Throttle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="20" width="292.13" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-278" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;L-A3&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;fillStyle=solid;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="1421.78" y="297" width="46" height="46" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-278" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;R-A3&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;fillStyle=solid;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="1356.07" y="307" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-279" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
           <mxGeometry x="985.36" y="170.5" width="110" height="50" as="geometry" />
@@ -507,7 +498,7 @@
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-280" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="984.66" y="170.5" width="110.7" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-281" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;L-A1&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;fillStyle=solid;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-281" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;R-A1&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;fillStyle=solid;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="1017.3599999999998" y="172.5" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-282" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
@@ -516,7 +507,7 @@
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-283" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1359.4899999999998" y="100" width="110.7" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-284" value="L-A4" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-284" value="R-A4" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="1392.86" y="102" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-285" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
@@ -525,7 +516,7 @@
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-286" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1004.0000000000001" y="1035.0900000000001" width="110.7" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-287" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;L-C1&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-287" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;R-C1&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="1026.1999999999998" y="1026.9399999999998" width="66.3" height="66.3" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-290" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-89;verticalAlign=top;" vertex="1" parent="1">
@@ -543,7 +534,7 @@
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-294" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="317.32720161180885" y="1093.999132890125" width="14.34" height="20.13" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-295" value="E1" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-295" value="E2" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1277.39" y="1039.99" width="57.6" height="20.91" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-296" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-89;verticalAlign=top;" vertex="1" parent="1">
@@ -552,7 +543,7 @@
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-297" value="T1" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1407.42" y="1040.41" width="56.12" height="20.53" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-298" value="E2" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-298" value="E1" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1546.71" y="1040.26" width="52.76" height="20.64" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-299" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GKqCPbM9X-c4OMSqoWZn-297" target="GKqCPbM9X-c4OMSqoWZn-298">
@@ -567,20 +558,20 @@
             <mxPoint x="1533.1000000000001" y="880.3699999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-301" value="Close Doors" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="966.1599999999997" width="72.4" height="40" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-301" value="Decoy Burst Size Inc." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1246.19" y="965.63" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-302" value="Salvage Beam Spacing&lt;div&gt;Mining Trottle&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;align=center;verticalAlign=middle;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1368.5900000000001" y="959.16" width="140" height="40" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-302" value="Unbound" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;align=center;verticalAlign=middle;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1365.4800000000002" y="965.3199999999999" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-303" value="Open Doors" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="1092.0400000000002" width="72.4" height="40" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-303" value="Decoy Burst Size Deac." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1239.99" y="1093.24" width="132.4" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-304" value="Salvage Beam Spacing&lt;div&gt;Mining Trottle&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;align=center;verticalAlign=middle;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1368.5900000000001" y="1100.04" width="130" height="40" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-304" value="Unbound" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;align=center;verticalAlign=middle;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1368.5900000000001" y="1093.24" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-305" value="&lt;div&gt;Scanning Angle&lt;/div&gt;&lt;div&gt;Bomb Range&lt;/div&gt;Tractor Distance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1525.4900000000002" y="1106.3500000000001" width="100" height="40" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-305" value="&lt;div&gt;Salvage Beam Spacing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="1093.35" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-306" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-89;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1428.3086008059047" y="999.3195664450624" width="14.34" height="20.13" as="geometry" />
@@ -597,8 +588,32 @@
         <mxCell id="GKqCPbM9X-c4OMSqoWZn-310" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1565.917201611809" y="1079.6891328901252" width="14.34" height="20.13" as="geometry" />
         </mxCell>
-        <mxCell id="GKqCPbM9X-c4OMSqoWZn-311" value="&lt;div&gt;Scanning Angle&lt;/div&gt;&lt;div&gt;Bomb Range&lt;/div&gt;Tractor Distance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1525.49" y="954.63" width="90" height="40" as="geometry" />
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-311" value="Salvage Beam Spacing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1508.59" y="964.63" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-315" value="" style="endArrow=none;html=1;rounded=0;exitX=0.439;exitY=0.35;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="GKqCPbM9X-c4OMSqoWZn-203" target="GKqCPbM9X-c4OMSqoWZn-251">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1450" y="470" as="sourcePoint" />
+            <mxPoint x="1500" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-316" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.03;exitY=0.052;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GKqCPbM9X-c4OMSqoWZn-250">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1450" y="470" as="sourcePoint" />
+            <mxPoint x="1160" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-317" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.064;exitY=0.195;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GKqCPbM9X-c4OMSqoWZn-234">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1316.19" y="510" as="sourcePoint" />
+            <mxPoint x="1190" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GKqCPbM9X-c4OMSqoWZn-318" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.011;entryY=0.708;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1241" y="630" as="sourcePoint" />
+            <mxPoint x="1508.1399999999999" y="585.27" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
